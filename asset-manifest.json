@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/commath-project1/static/css/main.5f361e03.chunk.css",
-    "main.js": "/commath-project1/static/js/main.174cfda4.chunk.js",
-    "main.js.map": "/commath-project1/static/js/main.174cfda4.chunk.js.map",
+    "main.css": "/commath-project1/static/css/main.4c0e4aa1.chunk.css",
+    "main.js": "/commath-project1/static/js/main.e93cda35.chunk.js",
+    "main.js.map": "/commath-project1/static/js/main.e93cda35.chunk.js.map",
     "runtime-main.js": "/commath-project1/static/js/runtime-main.41b34bb3.js",
     "runtime-main.js.map": "/commath-project1/static/js/runtime-main.41b34bb3.js.map",
-    "static/js/2.cd6ef5ee.chunk.js": "/commath-project1/static/js/2.cd6ef5ee.chunk.js",
-    "static/js/2.cd6ef5ee.chunk.js.map": "/commath-project1/static/js/2.cd6ef5ee.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/commath-project1/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5704baf2.chunk.js": "/commath-project1/static/js/2.5704baf2.chunk.js",
+    "static/js/2.5704baf2.chunk.js.map": "/commath-project1/static/js/2.5704baf2.chunk.js.map",
     "index.html": "/commath-project1/index.html",
-    "precache-manifest.1ddfb2e3fd4311e46ff8069a141a5871.js": "/commath-project1/precache-manifest.1ddfb2e3fd4311e46ff8069a141a5871.js",
+    "precache-manifest.0ac407941f6073bbb78d4c07542bc931.js": "/commath-project1/precache-manifest.0ac407941f6073bbb78d4c07542bc931.js",
     "service-worker.js": "/commath-project1/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/commath-project1/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.cd6ef5ee.chunk.js.LICENSE.txt": "/commath-project1/static/js/2.cd6ef5ee.chunk.js.LICENSE.txt",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/commath-project1/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.4c0e4aa1.chunk.css.map": "/commath-project1/static/css/main.4c0e4aa1.chunk.css.map",
+    "static/js/2.5704baf2.chunk.js.LICENSE.txt": "/commath-project1/static/js/2.5704baf2.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/commath-project1/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.41b34bb3.js",
-    "static/js/2.cd6ef5ee.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.174cfda4.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.5704baf2.chunk.js",
+    "static/css/main.4c0e4aa1.chunk.css",
+    "static/js/main.e93cda35.chunk.js"
   ]
 }
