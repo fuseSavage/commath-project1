@@ -1,38 +1,96 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
+	text-align: center;
+  }
+  
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+	height: 40vmin;
+	pointer-events: none;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  
+  @media (prefers-reduced-motion: no-preference) {
+	.App-logo {
+	  animation: App-logo-spin infinite 2s linear;
+	}
   }
-  to {
-    transform: rotate(360deg);
+  
+  .App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
   }
-}
+  
+  .App-link {
+	color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+	from {
+	  transform: rotate(0deg);
+	}
+	to {
+	  transform: rotate(360deg);
+	}
+  }
+  @import url("https://fonts.googleapis.com/css2?family=Prompt&display=swap");
+
+  .bg-color{
+	  border: rgb(112, 9, 112);
+  }
+  
+  .text-center{
+	  margin-top: 3%;
+	
+  }
+
+ 
+  h1,
+  h2,
+  h3,
+  h4,
+  p
+  {
+	font-family: "Times New Roman", Times, serif;
+	
+  }
+  h1{
+	color: red;
+	font-weight: bold;
+  }
+
+  h3{
+	margin-top: 30%;
+  }
+  
+  .body {
+	text-align: center;
+	
+  }
+  .box-centers{
+	  margin-top: 3%;
+	  margin-left: 20%;
+	  margin-right: 20%;
+	  
+  }
+  
+  .margin-top{
+	margin-top: 3%;
+  }
+
+  .margin-buttom{
+	  margin-bottom: 10%;
+  }
+  .btn-style{
+	  margin-right: 35%;
+	  margin-left: 35%;
+	  
+  }
+
+  .layout-width{
+	  width: 600px;
+  }
+  
