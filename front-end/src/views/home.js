@@ -1,5 +1,5 @@
 import React from 'react';
-import { CardTitle, CardText, Row, Col, Button, Card } from "reactstrap";
+import { CardTitle, CardText, Col, Button, Card } from "reactstrap";
 import "../App.css";
 import { useNavigate } from "react-router-dom";
 
@@ -28,7 +28,7 @@ function Home() {
               <h4>Basic Computing</h4>
             </CardText>
             <Button className="btn-style" onClick={() => { nextPage("b2s") }} color="danger">
-              <h3 style={{ marginTop: "10px" }}>Start</h3>
+              <h5 style={{ marginTop: "10px" }}>Start</h5>
             </Button>
           </Card>
         </Col>
@@ -42,7 +42,7 @@ function Home() {
               <h4>Systems of Linear Algebraic Equations</h4>
             </CardText>
             <Button className="btn-style" onClick={() => { nextPage("elimination") }} color="primary">
-              <h3 style={{ marginTop: "10px" }}>Start</h3>
+              <h5 style={{ marginTop: "10px" }}>Start</h5>
             </Button>
           </Card>
         </Col>
@@ -56,7 +56,7 @@ function Home() {
               <h4>Interpolation & Curve fitting</h4>
             </CardText>
             <Button className="btn-style" onClick={() => { nextPage("interpolation") }} color="warning">
-              <h3 style={{ marginTop: "10px" }}>Start</h3>
+              <h5 style={{ marginTop: "10px" }}>Start</h5>
             </Button>
           </Card>
         </Col>
@@ -70,7 +70,7 @@ function Home() {
               <h4>Differentiation</h4>
             </CardText>
             <Button className="btn-style" onClick={() => { nextPage("differentiation") }} color="success">
-              <h3 style={{ marginTop: "10px" }}>Start</h3>
+              <h5 style={{ marginTop: "10px" }}>Start</h5>
             </Button>
           </Card>
         </Col>
@@ -84,7 +84,7 @@ function Home() {
               <h4>Integration</h4>
             </CardText>
             <Button className="btn-style" onClick={() => { nextPage("integration") }} color="secondary">
-              <h3 style={{ marginTop: "10px" }}>Start</h3>
+              <h5 style={{ marginTop: "10px" }}>Start</h5>
             </Button>
           </Card>
         </Col>
@@ -98,7 +98,7 @@ function Home() {
               <h4>Root-finding</h4>
             </CardText>
             <Button className="btn-style" onClick={() => { nextPage("root-finding") }} color="info" >
-              <h3 style={{ marginTop: "10px" }}>Start</h3>
+              <h5 style={{ marginTop: "10px" }}>Start</h5>
             </Button>
           </Card>
         </Col>

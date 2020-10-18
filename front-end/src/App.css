@@ -48,15 +48,6 @@
   }
 
  
-  h1,
-  h2,
-  h3,
-  h4,
-  p
-  {
-	font-family: "Times New Roman", Times, serif;
-	
-  }
   h1{
 	color: red;
 	font-weight: bold;
@@ -65,32 +56,53 @@
   h3{
 	margin-top: 30%;
   }
+
+  h5{
+    font-size: 20px;
+    color: #ffffff;
+  }
   
   .body {
 	text-align: center;
 	
   }
   .box-centers{
-	  margin-top: 3%;
-	  margin-left: 20%;
-	  margin-right: 20%;
+	  margin-top: 5%;
+	  margin-left: 10%;
+	  margin-right: 10%;
 	  
   }
   
   .margin-top{
-	margin-top: 3%;
+	margin-top: 8%;
   }
 
   .margin-buttom{
 	  margin-bottom: 10%;
   }
   .btn-style{
-	  margin-right: 35%;
-	  margin-left: 35%;
+	  margin-right: 20%;
+	  margin-left: 20%;
 	  
   }
 
   .layout-width{
 	  width: 600px;
   }
-  
+
+  .Input{
+    margin-top: 10%;
+  }
+
+  .magin-class{
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+  .magin-class2{
+    margin-top: 3%;
+    margin-bottom: 3%;
+  }
+  .set-box{
+    margin-top: 2%;
+    
+  }
