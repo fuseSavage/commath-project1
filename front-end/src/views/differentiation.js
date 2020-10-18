@@ -39,8 +39,8 @@ function Differentiation() {
         <Col sm="4"></Col>
         <Col sm="4">
           <div className="text-center">
-            <h1>บทที่ 3</h1>
-            <h2>Interpolation & Curve fitting</h2>
+            <h1>บทที่ 4</h1>
+            <h2>Differentiation</h2>
           </div>
 
 
