@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiHost = "https://com-math.herokuapp.com/";
+const apiHost = "https://com-math.herokuapp.com";
 
 export const getB2s = (b2s) => {
     return axios
